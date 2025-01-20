@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi👋, I'm Dmitrii
 
-<!--
-**VolkDS/VolkDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm **VolkDS**, a Senior C++/Python Developer and Solution Architect of high-load applications for mobile operators with over 8 years of experience in software development. My career encompasses a wide range of technologies and methodologies, including microservices and distributed systems. I strive to create efficient, scalable, and reliable solutions that meet the needs of businesses and users.
 
-Here are some ideas to get you started:
+## Work Experience
+- **Messaging System**: Implemented a pre-check service for incoming messages and a Diameter-service for a billing connectivity.
+- **Device Managing System**: Designed and implemented microservices architecture.
+- **Steering of Roaming System**: Designed and implemented microservices architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: C++, Python, Lua
+- **Technologies**: Docker, Microservices Architecture
+- **Protocols**: SMPP, Diameter, M3UA, TCAP, MAP
+- **Databases**: PostgreSQL, Redis, ClickHouse
+- **Tools**: Git, Prometheus, Grafana, Ansible, GitLab
